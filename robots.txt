@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nic-afterdark.github.io/readme-rbn7bf/sitemap.xml
